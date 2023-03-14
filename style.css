@@ -1,0 +1,38 @@
+body{
+    background-color: beige;
+    font-family: 'Roboto' , sans-serif;
+}
+
+.header_div{
+    background-color: aqua;
+    color: black;
+}
+
+.header_div p{
+    width: 200;
+    height: 150;
+    font-weight: 100;
+    letter-spacing: 100;
+    font-size: medium;
+}
+
+.main_div button{
+    width: 150;
+    height: 100;
+    font-weight: 90;
+    letter-spacing: 90;
+    font-size: medium;
+
+}
+
+.copy_right_footer{
+    position:fixed;
+    color: bisque;
+    bottom: 0%;
+    width: 100%;
+    font-size: 18px;
+    background:#c77272;
+    line-height: 3.5;
+    text-align:bottom;
+    text-shadow:5px 5px 5px rgb(151,149,149);
+}
